@@ -1,2 +1,2 @@
 # Web-Api
-Exemplo de Web API Rest .NET Framework.
+Exemplo semples de Web API Rest .NET Framework.
